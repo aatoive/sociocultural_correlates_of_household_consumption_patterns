@@ -12,6 +12,13 @@ Data sources:
 
 Analysis were run with R version 4.5.2. The package versions are recorded into [renv.lock](/renv.lock).
 
+## Outputs
+
+The script produces the following figures:
+- [Figure 1A](figures/figure1A.png) (Correlation and clustering analysis between welfare and cultural value variables)
+- [Figure 1B](figures/figure1B.png) (Correlation and clustering analysis between household consumption categories)
+- [Figure 2](figures/figure2.png) (Results of the correlation analysis of welfare indicators, cultural values, and household consumption categories)
+
 ## Lisence
 
 [MIT License](/LICENSE)
