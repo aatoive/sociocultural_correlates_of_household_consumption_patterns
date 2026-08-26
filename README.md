@@ -1,4 +1,4 @@
-# Sociocultural correlates of household consumption patterns: National welfare and cultural values shape household spending 
+# Sociocultural correlates of household consumption patterns
 Reproducible data preparation and correlation analysis (R) for “Sociocultural correlates of household consumption patterns: National welfare and cultural values shape household spending.”
 
 ## Description
