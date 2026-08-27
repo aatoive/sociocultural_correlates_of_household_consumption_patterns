@@ -3,7 +3,7 @@ Reproducible data preparation and correlation analysis (R) for “Sociocultural 
 
 ## Description
 
-This repository contains R scripts for [data preparation](scripts/data_preparation.R), main analyses, and robustness analyses for the manuscript "Sociocultural correlates of household consumption patterns: National welfare and cultural values shape household spending." The manuscript investigates the relationship between household consumption patterns and key welfare and cultural value indicators. 
+This repository contains R scripts for [data preparation](scripts/data_preparation.R), [main analyses](scripts/main_analyses.R), and [robustness analyses](scripts/robustness_analyses.R) for the manuscript "Sociocultural correlates of household consumption patterns: National welfare and cultural values shape household spending." The manuscript investigates the relationship between household consumption patterns and key welfare and cultural value indicators. 
 
 Data sources:
 - [Household consumption expenditure data](https://data.un.org/Data.aspx?d=SNA&f=group_code%3A302) (UNSD, 2025)
