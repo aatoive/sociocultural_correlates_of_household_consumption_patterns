@@ -3,7 +3,7 @@ Reproducible data preparation and correlation analysis (R) for “Sociocultural 
 
 ## Description
 
-This repository contains R code for data preparation and correlation analyses for the manuscript "Sociocultural correlates of household consumption patterns: National welfare and cultural values shape household spending." The manuscript investigates the relationship between household consumption patterns and key welfare and cultural value indicators. 
+This repository contains R scripts for data preparation, main analyses, and robustness analyses for the manuscript "Sociocultural correlates of household consumption patterns: National welfare and cultural values shape household spending." The manuscript investigates the relationship between household consumption patterns and key welfare and cultural value indicators. 
 
 Data sources:
 - [Household consumption expenditure data](https://data.un.org/Data.aspx?d=SNA&f=group_code%3A302) (UNSD, 2025)
@@ -14,10 +14,11 @@ Analysis were run with R version 4.5.2. The package versions are recorded into [
 
 ## Outputs
 
-The script produces the following figures:
-- [Figure 1A](figures/figure1A.png) (Correlation and clustering analysis between welfare and cultural value indicators)
-- [Figure 1B](figures/figure1B.png) (Correlation and clustering analysis between household consumption categories)
-- [Figure 2](figures/figure2.png) (Results of the correlation analysis of welfare indicators, cultural values, and household consumption categories)
+The scripts produce the following figures:
+- [Figure 1A](figures/corr_ind.png) (Correlation and clustering analysis between welfare and cultural value indicators)
+- [Figure 1B](figures/corr_consum.png) (Correlation and clustering analysis between household consumption categories)
+- [Figure 2](figures/pca_biplots.jpg) (Principal component analysis of welfare and cultural value indicators)
+- [Figure 3](figures/corr_ind_consum.png) (Results of the correlation analysis of welfare indicators, cultural values, and household consumption categories)
 
 ## Lisence
 
