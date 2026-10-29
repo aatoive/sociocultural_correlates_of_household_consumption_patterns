@@ -1,9 +1,8 @@
 
 # title: Robustness analyses for the manuscript:
-# "Sociocultural correlates of household consumption patterns: 
-# National welfare and cultural values shape household spending.”
+# "Country-level associations of welfare and cultural values with household consumption patterns.”
 # author: Aada Toivettula
-# date: 2026-08-27
+# date: 2026-10-29
 
 # Load packages ---------------------------------------------------------------
 
